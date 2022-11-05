@@ -13,6 +13,8 @@ SFML Expand
 
 目前没有写完
 
+在使用之前你需要先安装原版SFML
+
 
 This is an extension library of SFML
 
@@ -23,3 +25,5 @@ Contains 2D and 3D graphics
 The function name is similar to the original version (perhaps)
 
 Not finished at present
+
+You need to install the original SFML before using it
